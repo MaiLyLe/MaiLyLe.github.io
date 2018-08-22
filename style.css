@@ -18,7 +18,9 @@ a:hover, a:visited, .navElement:hover {
 }
 
 
-
+.navElement:link {
+  color: white !important; 
+}
 .navElement:visited {
   color: white !important;
 }
