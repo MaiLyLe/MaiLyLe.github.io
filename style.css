@@ -1,5 +1,9 @@
 *{box-sizing: border-box;}
 
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
 *::-moz-selection{
   background: #da7b73;
   color: white;
@@ -19,7 +23,7 @@ a:hover, a:visited, .navElement:hover {
 
 
 .navElement:link {
-  color: white !important; 
+  color: white !important;
 }
 .navElement:visited {
   color: white !important;
