@@ -35,7 +35,7 @@ a:hover, a:visited, .navElement:hover {
 
 
 div>h1, div>h2 {
-    font-family: Impact, Charcoal, sans-serif;
+    font-family: 'Impact', arial; 
     color: white;
 
 
